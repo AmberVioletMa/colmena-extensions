@@ -1,0 +1,23 @@
+{
+  "extensions": [
+    {
+      "id": "cad",
+      "name": "CAD / 3D viewer",
+      "description": "Agents build 3D models step by step with CadQuery; a live 3D viewer, a build replay and a technical drawing with dimensions; STEP, STL and 3MF.",
+      "repo": "https://github.com/AmberVioletMa/colmena-cad",
+      "parts": [
+        "service",
+        "pages"
+      ],
+      "commit": "61e948742304bae13e4d64fb9330eae681dc568b",
+      "tree_sha256": "4858ae741d92399ec6cd69527fbd711afda976e7a088634ab9ff3c5a9e4e93c2",
+      "i18n": {
+        "es": {
+          "name": "CAD / Visor 3D",
+          "description": "Los agentes construyen modelos 3D paso a paso con CadQuery; visor 3D en vivo, repetición de la construcción y plano técnico con medidas; STEP, STL y 3MF."
+        }
+      },
+      "version": "1.0.0"
+    }
+  ]
+}
