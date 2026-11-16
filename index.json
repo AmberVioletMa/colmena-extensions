@@ -18,6 +18,24 @@
         }
       },
       "version": "1.0.0"
+    },
+    {
+      "id": "cajas",
+      "name": "Boxes (example world)",
+      "description": "Example and template world for Rooms: every place is a box and everyone a figure in the colours of their portable look. Copy it to start your own world.",
+      "repo": "https://github.com/AmberVioletMa/rooms-world-cajas",
+      "parts": [
+        "world"
+      ],
+      "commit": "8eebcb4bb08ab3c385a71d300852a0311c8878cd",
+      "tree_sha256": "b71874bda473533b3e499069c0ecaf58bbbd09f5378aa1f3f86c5b0c768f7792",
+      "version": "1.1.0",
+      "i18n": {
+        "es": {
+          "name": "Cajas (mundo de ejemplo)",
+          "description": "Mundo de ejemplo y plantilla para Rooms: cada lugar es una caja y cada quien una figura con los colores de su look portable. Cópialo para empezar tu propio mundo."
+        }
+      }
     }
   ]
 }

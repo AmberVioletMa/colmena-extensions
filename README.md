@@ -2,6 +2,7 @@
 
 `index.json` is the list of reviewed extensions that Colmena and Rooms offer with one click. Each entry is pinned to the
 exact commit that was reviewed and to the hash of its files, so what was reviewed is exactly what gets installed.
+The list also has worlds and assets packs for Rooms; install them in Rooms → 🌍 Mundo → «Instalar mundos y paquetes…».
 The format of an extension and of this list: [EXTENSIONS.md](https://github.com/AmberVioletMa/colmena/blob/master/EXTENSIONS.md).
 
 ## Add yours
