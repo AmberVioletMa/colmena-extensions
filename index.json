@@ -36,6 +36,25 @@
           "description": "Mundo de ejemplo y plantilla para Rooms: cada lugar es una caja y cada quien una figura con los colores de su look portable. Cópialo para empezar tu propio mundo."
         }
       }
+    },
+    {
+      "id": "rooms-studio",
+      "name": "Rooms Studio",
+      "description": "Agents make furniture, decorations and animations for Rooms from a description (pixel sprites for the office, glTF for 3D worlds), with a preview before saving, and start new worlds from a template.",
+      "repo": "https://github.com/AmberVioletMa/rooms-studio",
+      "parts": [
+        "service",
+        "pages"
+      ],
+      "commit": "2b4c50c3bbe793a0a6c090bc58a4d1bb35ae6400",
+      "tree_sha256": "c9e248b0d9ea773709ab81d6dda1347988b685e2fb8b2be4e37aa346f1db65fb",
+      "version": "0.1.0",
+      "i18n": {
+        "es": {
+          "name": "Rooms Studio",
+          "description": "Los agentes crean muebles, decoraciones y animaciones para Rooms desde una descripción (sprites pixel para la oficina, glTF para mundos 3D), con vista previa antes de guardar, y empiezan mundos nuevos desde una plantilla."
+        }
+      }
     }
   ]
 }
