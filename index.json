@@ -40,19 +40,19 @@
     {
       "id": "rooms-studio",
       "name": "Rooms Studio",
-      "description": "Agents make furniture, decorations and animations for Rooms from a description (pixel sprites for the office, glTF for 3D worlds), with a preview before saving, and start new worlds from a template.",
+      "description": "Agents make furniture, decorations and animations for Rooms worlds from a description, in each world's own style (studied on its own assets): pixel art for the pixel office, sprite sheets or SVG for other 2D worlds, glTF for 3D ones. A live viewer shows every view, the asset placed in the world, its interactions and animations before saving; they save to the house's own asset pack or a package to publish, and start new worlds from a template.",
       "repo": "https://github.com/AmberVioletMa/rooms-studio",
       "parts": [
         "service",
         "pages"
       ],
-      "commit": "2b4c50c3bbe793a0a6c090bc58a4d1bb35ae6400",
-      "tree_sha256": "c9e248b0d9ea773709ab81d6dda1347988b685e2fb8b2be4e37aa346f1db65fb",
-      "version": "0.1.0",
+      "commit": "6129e7f785884b8fdb18c7e75428961d8e66a984",
+      "tree_sha256": "7b60821a34c5fbd19abadb0d2716b111db431c524d19004b3a925a0eeb9cb350",
+      "version": "0.2.0",
       "i18n": {
         "es": {
           "name": "Rooms Studio",
-          "description": "Los agentes crean muebles, decoraciones y animaciones para Rooms desde una descripción (sprites pixel para la oficina, glTF para mundos 3D), con vista previa antes de guardar, y empiezan mundos nuevos desde una plantilla."
+          "description": "Los agentes crean muebles, decoraciones y animaciones para los mundos de Rooms desde una descripción, en el estilo propio de cada mundo (estudiado en sus assets): pixel art para la oficina, sprite sheets o SVG para otros mundos 2D y glTF para los 3D. Un visor en vivo muestra todas las vistas, el asset puesto en el mundo, sus interacciones y animaciones antes de guardar; se guardan en el paquete de assets de la casa o en un paquete para publicar, y se empiezan mundos nuevos desde una plantilla."
         }
       }
     }
