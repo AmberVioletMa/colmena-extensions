@@ -55,6 +55,24 @@
           "description": "Los agentes crean muebles, decoraciones y animaciones para los mundos de Rooms desde una descripción, en el estilo propio de cada mundo (estudiado en sus assets): pixel art para la oficina, sprite sheets o SVG para otros mundos 2D y glTF para los 3D. Un visor en vivo muestra todas las vistas, el asset puesto en el mundo, sus interacciones y animaciones antes de guardar; se guardan en el paquete de assets de la casa o en un paquete para publicar, y se empiezan mundos nuevos desde una plantilla."
         }
       }
+    },
+    {
+      "id": "figuras3d",
+      "name": "3D figures",
+      "description": "Viewer for generative 3D figures (organic shapes made with ComfyUI/TRELLIS by the agent's own CLI engine): every version of a figure, solid or wireframe, side-by-side or overlaid comparison, preview images.",
+      "repo": "https://github.com/AmberVioletMa/colmena-figuras3d",
+      "parts": [
+        "pages"
+      ],
+      "commit": "7fa05c9fc57909f25fb338b02d62fce10c1e8d7a",
+      "tree_sha256": "c8e51edee7c8472b781b59614448bde558573a503403cff05555256a73f81ca7",
+      "version": "1.0.0",
+      "i18n": {
+        "es": {
+          "name": "Figuras 3D",
+          "description": "Visor de figuras 3D generativas (formas orgánicas hechas con ComfyUI/TRELLIS por el motor CLI del agente): todas las versiones de una figura, sólido o malla, comparación lado a lado o superpuesta, vistas previas."
+        }
+      }
     }
   ]
 }
